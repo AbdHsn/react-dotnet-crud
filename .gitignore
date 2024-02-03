@@ -1,0 +1,27 @@
+# Node
+/reactui/node_modules
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# DotNet API
+/api/bin
+/api/obj
+
+# System files
+.DS_Store
+Thumbs.db
